@@ -12,7 +12,7 @@ Los notebooks constan de los siguientes contenidos:
 - [X] Conceptos básicos de estadística para la modelización de datos
 - [X] Regresión lineal con Python
 - [X] Regresión logística con Python
-- [ ] Clustering y clasificación
+- [X] Clustering y clasificación
 - [ ] Arboles y bosques aleatorios
 - [ ] Máquinas de Soporte Vectorial
 - [ ] K Nearest Neighbors
