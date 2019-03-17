@@ -13,7 +13,7 @@ Los notebooks constan de los siguientes contenidos:
 - [X] Regresión lineal con Python
 - [X] Regresión logística con Python
 - [X] Clustering y clasificación
-- [ ] Arboles y bosques aleatorios
+- [X] Arboles y bosques aleatorios
 - [ ] Máquinas de Soporte Vectorial
 - [ ] K Nearest Neighbors
 - [ ] Sistemas de recomendación
