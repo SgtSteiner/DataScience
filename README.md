@@ -37,6 +37,21 @@ Los objetivos de este notebook son varios:
 
 + **Modelado**. Por último, implementar un modelo predictivo para determinar si un empleado va a renunciar o no.
 
+## [Machine Learning Project WalkThrough](https://github.com/SgtSteiner/DataScience/tree/master/ML%20Project%20WalkThrough)
+Se trata de un conjunto de notebooks de se analiza una solución completa de machine learning a partir de un conjunto de datos del mundo real para ver cómo se unen todas las piezas.
+
+Se sigue paso a paso el flujo general de trabajo de machine learning:
+
++ Limpieza y formateo de datos.
++ Análisis exploratorio de datos.
++ Ingeniería y selección de características.
++ Comparar varios modelos de machine learning en una métrica de rendimiento.
++ Ajuste del hiperparámetro en el mejor modelo.
++ Evaluar el mejor modelo en el conjunto de pruebas.
++ Interpretar los resultados del modelo.
++ Sacar conclusiones y documentar el trabajo.
+
+
 ## [Machine Learning Explainability](https://github.com/SgtSteiner/DataScience/tree/master/Machine%20Learning%20Explainability)
 
 Se trata de los notebooks elaborados para seguir las sesiones de Kaggle sobre [Machine Learning for insights](https://www.kaggle.com/learn/machine-learning-explainability). Los temas tratados son:
