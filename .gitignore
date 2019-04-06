@@ -8,3 +8,4 @@ Attrition/.ipynb_checkpoints/
 
 \.ipynb_checkpoints/
 .idea/
+*.pkl
