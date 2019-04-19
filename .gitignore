@@ -9,3 +9,5 @@ Attrition/.ipynb_checkpoints/
 \.ipynb_checkpoints/
 .idea/
 *.pkl
+handson-ml/data/spam/easy_ham/
+handson-ml/data/spam/spam/
