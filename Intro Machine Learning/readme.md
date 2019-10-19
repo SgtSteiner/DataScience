@@ -11,3 +11,4 @@ Esta colección de notebooks trata los siguientes aspectos:
 + Primeros modelos de aprendizaje automático
 + Validación del modelo
 + Underfitting y Overfitting
++ Bosques Aleatorios
