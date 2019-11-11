@@ -11,3 +11,4 @@ Esta colección de notebooks trata los siguientes aspectos:
 + Gráficos de barras y mapas de calor
 + Diagramas de dispersión
 + Distribuciones
++ Elección de tipos de trama y estilos personalizados
