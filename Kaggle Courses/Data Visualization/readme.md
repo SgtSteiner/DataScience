@@ -10,3 +10,4 @@ Esta colección de notebooks trata los siguientes aspectos:
 + Gráficos de líneas
 + Gráficos de barras y mapas de calor
 + Diagramas de dispersión
++ Distribuciones
