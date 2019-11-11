@@ -7,4 +7,6 @@ Fuente: [Kaggle](https://www.kaggle.com/learn/data-visualization)
 Esta colección de notebooks trata los siguientes aspectos:
 
 + Hola, Seaborn
-+ Gráfico de líneas
++ Gráficos de líneas
++ Gráficos de barras y mapas de calor
++ Diagramas de dispersión
