@@ -12,3 +12,4 @@ Esta colección de notebooks trata los siguientes aspectos:
 + Diagramas de dispersión
 + Distribuciones
 + Elección de tipos de trama y estilos personalizados
++ Proyecto Final
